@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 echo "Olá mundo456 !"
-echo ola  sidney;
+echo "Olá sidney
 ?>
